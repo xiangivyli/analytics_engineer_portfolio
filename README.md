@@ -45,20 +45,37 @@ Lineage Graph:
 
 ## Part B BI tools
 
-### [A self-service platform for GDP, Life Satisfaction and Education Level](https://xiangivyli.com/blog/an-information-retrieval-platform-for-gdp-satisfaction-education)
+### [A self-service Platform for GDP, Life Satisfaction and Education Level](https://xiangivyli.com/blog/an-information-retrieval-platform-for-gdp-satisfaction-education)
 Tag: Take-home assignment
 
-Tools: Tableau
+Tool: Tableau
 
 Summary: 
 This project shows how to put many metrics on one page, my design was to provide end-users flexibility to retrieve the information they want.
 
-Dashboard (The interactive experience is better), so just put the published link here:
-https://public.tableau.com/app/profile/xiang.li5182/viz/PersonalProjectsIvyLi/KeyEducation?publish=yesKey
+Dashboard (The interactive experience is better), so just put the published [link here]
+(https://public.tableau.com/app/profile/xiang.li5182/viz/PersonalProjectsIvyLi/KeyEducation?publish=yesKey)
 
 Overview:
 <p align = "center">
 <img src="src/tableau_gdp_education_life.png">
+
+### [Education-Focused Analysis](https://xiangivyli.com/blog/education-focused-analysis-assessment-types-final-results)
+Tag: Take-home assignment
+
+Tool: Python and Power BI
+
+Summary:
+This project extracts tables from Open University Learning Analytics, the purpose is to answer a question: 
+ - *Why changing the mix and weighting of assessment types in presentation 2014J compared with other presentations of module BBB appeared to be associated with a change in final results.*
+
+This project also involves data validation, cleansing processes, and the final 4 pages of reports like onions (layer by layer) to answer the questions directly.
+
+Dashboard (The interactive experience is better), so just put the published [link here](https://www.novypro.com/project/education-focused-analysis-how-assessment-types-shape-the-final-result)
+
+Overview:
+<p align = "center">
+<img src="src/powerbi_education_report.png">
 </p>
 
 
