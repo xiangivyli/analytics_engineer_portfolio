@@ -9,7 +9,7 @@ It mainly involves 2 parts, dbt and BI reports. I hope it shows my passion for a
 ## Part A dbt
 
 ### [Job Postings on Linkedin](https://github.com/xiangivyli/data-science-portfolio/tree/main/part_a_job_posting_linkedin_pipeline/airflow/dags/dbt)
-Tag: Ivy's Design
+Tag: My Design
 
 Tools:
  - Data Transformation: **dbt**
