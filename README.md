@@ -12,7 +12,7 @@ It mainly involves 2 parts, dbt and BI reports. I hope it shows my passion for a
 Tag: My Design
 
 Tools:
- - Data Transformation: **dbt**
+ - Data Transformation: **dbt** (Cosmos)
  - Data Orchestration: **Airflow**
  - Data Visualisation: **Power BI**
  - Data Quality Testing: **Soda** and **dbt test**
@@ -23,3 +23,23 @@ Summary:
 This project aims to build an end-to-end data pipeline from a bigger picture. For the dbt part, I used **DbtDag** as the downstream of a data ingestion dag, and it is triggered by Dataset (which means once new data is in the big query, dbt starts to transform)
 
 Lineage Graph:
+<p align = "center">
+<img src="src/dbt_dag_trans_test_bigquery_linkedin.png">
+</p>
+
+### [Airbnb hosts and review](https://github.com/xiangivyli/the_dbt_bootcamp)
+Tag: Udemy Course
+
+Tools:
+ - Data Transformation: **dbt core**
+ - Data Warehouse: **Snowflake**
+ - Data Visualisation: **Preset**
+
+Summary: 
+This project covers every aspect of dbt, from **models, snapshots, and tests to macros, documentation, analyses, and logging**. I practised each point when I followed along with this course. I plan to develop my own project with these techniques.
+
+Lineage Graph:
+<p align = "center">
+<img src="src/dbt_documentation_snowflake_airbnb.png">
+</p>
+
