@@ -53,8 +53,7 @@ Tool: Tableau
 Summary: 
 This project shows how to put many metrics on one page, my design was to provide end-users flexibility to retrieve the information they want.
 
-Dashboard (The interactive experience is better), so just put the published [link here]
-(https://public.tableau.com/app/profile/xiang.li5182/viz/PersonalProjectsIvyLi/KeyEducation?publish=yesKey)
+Dashboard (The interactive experience is better), so just put the published [link here](https://public.tableau.com/app/profile/xiang.li5182/viz/PersonalProjectsIvyLi/KeyEducation?publish=yesKey)
 
 Overview:
 <p align = "center">
