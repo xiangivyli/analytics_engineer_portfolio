@@ -48,7 +48,7 @@ Lineage Graph:
 ### [A self-service Platform for GDP, Life Satisfaction and Education Level](https://xiangivyli.com/blog/an-information-retrieval-platform-for-gdp-satisfaction-education)
 Tag: Take-home assignment
 
-Tool: Tableau
+Tool: **Tableau**
 
 Summary: 
 This project shows how to put many metrics on one page, my design was to provide end-users flexibility to retrieve the information they want.
@@ -62,13 +62,13 @@ Overview:
 ### [Education-Focused Analysis](https://xiangivyli.com/blog/education-focused-analysis-assessment-types-final-results)
 Tag: Take-home assignment
 
-Tool: Python and Power BI
+Tool: Python and **Power BI**
 
 Summary:
 This project extracts tables from Open University Learning Analytics, the purpose is to answer a question: 
  - *Why changing the mix and weighting of assessment types in presentation 2014J compared with other presentations of module BBB appeared to be associated with a change in final results.*
 
-This project also involves data validation, cleansing processes, and the final 4 pages of reports like onions (layer by layer) to answer the questions directly.
+This project also involves **data validation**, **cleansing** processes, and the final 4 pages of reports like onions (layer by layer) to answer the questions directly.
 
 Dashboard (The interactive experience is better), so just put the published [link here](https://www.novypro.com/project/education-focused-analysis-how-assessment-types-shape-the-final-result)
 
@@ -77,4 +77,17 @@ Overview:
 <img src="src/powerbi_education_report.png">
 </p>
 
+###[Revenue Increase Strategy Analysis for Google Merchandise Store](https://xiangivyli.com/blog/revenue-google-store)
+Tag: Paper in University
 
+Tools: **Google Analytics and Looker**
+
+Summary:
+This project is to finish one paper, the purpose is to analyse how to increase revenue by identifying the **potential customers**, the most popular items, **customer behaviour** and analysis of the purchasing process.
+
+Finally, I used Looker to picture the distribution of customers, paying methods and the trend.
+
+I just put the static dashboard here:
+<p align = "center">
+<img src="src/looker_google_customer.jpg">
+</p>
