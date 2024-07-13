@@ -27,7 +27,7 @@ Lineage Graph:
 <img src="src/dbt_dag_trans_test_bigquery_linkedin.png">
 </p>
 
-### [Airbnb hosts and review](https://github.com/xiangivyli/the_dbt_bootcamp)
+### [Airbnb Hosts and Reviews Analysis](https://github.com/xiangivyli/the_dbt_bootcamp)
 Tag: Udemy Course
 
 Tools:
@@ -42,4 +42,23 @@ Lineage Graph:
 <p align = "center">
 <img src="src/dbt_documentation_snowflake_airbnb.png">
 </p>
+
+## Part B BI tools
+
+### [A self-service platform for GDP, Life Satisfaction and Education Level](https://xiangivyli.com/blog/an-information-retrieval-platform-for-gdp-satisfaction-education)
+Tag: Take-home assignment
+
+Tools: Tableau
+
+Summary: 
+This project shows how to put many metrics on one page, my design was to provide end-users flexibility to retrieve the information they want.
+
+Dashboard (The interactive experience is better), so just put the published link here:
+https://public.tableau.com/app/profile/xiang.li5182/viz/PersonalProjectsIvyLi/KeyEducation?publish=yesKey
+
+Overview:
+<p align = "center">
+<img src="src/tableau_gdp_education_life.png">
+</p>
+
 
