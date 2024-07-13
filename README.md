@@ -77,7 +77,7 @@ Overview:
 <img src="src/powerbi_education_report.png">
 </p>
 
-###[Revenue Increase Strategy Analysis for Google Merchandise Store](https://xiangivyli.com/blog/revenue-google-store)
+### [Revenue Increase Strategy Analysis for Google Merchandise Store](https://xiangivyli.com/blog/revenue-google-store)
 Tag: Paper in University
 
 Tools: **Google Analytics and Looker**
